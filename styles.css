@@ -259,8 +259,8 @@ button[type="submit"]:focus {
 @media only screen and (max-width: 380px) {
     
     form {
-        width: 340px;
-        padding: 3em .3em;
+        width: 330px;
+        padding: 3em .25em;
     }
     
     .wrapper h2 {
